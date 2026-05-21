@@ -42,6 +42,4 @@ Built using the **MERN stack (MongoDB, Express, React, Node.js)**.
 - Cloudinary (for image storage, if used)
 - Map integration (if used)
 
----
 
-## 📁 Project Structure
